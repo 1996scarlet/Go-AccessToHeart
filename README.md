@@ -20,3 +20,7 @@
 * `use WorkDB`
 * `source XXXX.sql`
 * `quit`
+
+## Thanks
+* [Ubuntu](http://www.cnblogs.com/studyzy/p/6964612.html)
+* [Windows](https://www.cnblogs.com/huligong1234/p/4707282.html)
